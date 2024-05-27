@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.active{
+    color: thistle;
+    font-size: 20px;
+    font-family: sans-serif;
+}
+.active2{
+    font-size: 18px;
+    font-family: sans-serif;
+}
+button:hover{
+    color: rgb(68, 66, 66);
+}
